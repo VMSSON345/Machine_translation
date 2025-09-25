@@ -1,0 +1,9 @@
+torch
+datasets
+sentencepiece
+sacrebleu
+onnx
+onnxruntime
+numpy
+tqdm
+matplotlib
